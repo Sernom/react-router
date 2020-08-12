@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Hooks Tutorial
+
+This project was made from the react-router tutorial taken on youtube from the channel [dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)!
+
+See video [here](https://www.youtube.com/watch?v=Law7wfdg_ls).
+
+Please support dev ed! [Patreon](https://www.patreon.com/dev_ed).
+
 
 ## Available Scripts
 
