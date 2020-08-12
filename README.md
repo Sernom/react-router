@@ -1,4 +1,4 @@
-# React-Hooks Tutorial
+# React-Router Tutorial
 
 This project was made from the react-router tutorial taken on youtube from the channel [dev ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)!
 
